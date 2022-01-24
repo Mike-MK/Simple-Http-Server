@@ -12,4 +12,5 @@ To run this project you need
 1. Edit config.yaml to specify the address and port on which the server will listen
 2. Run the server.py file
 3. Send request e.g from browser, using specified address and port.
+4. A '/' request returns index.html 
 
